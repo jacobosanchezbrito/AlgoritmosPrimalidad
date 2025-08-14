@@ -263,3 +263,4 @@ if __name__ == "__main__":
         promedio = medir_tiempo(func, numero_prueba)
         print(f"{nombre}: {promedio:.2f} ns en promedio")
 
+#ENlace docs https://docs.google.com/document/d/1V0xeRj88t_NvgPeTODHwT0ldUiTkBHTFe7Tw0eS_ZXE/edit?usp=sharing
